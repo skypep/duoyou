@@ -1,6 +1,5 @@
 {
-"maxTimes":2,
-"appid":"ca-app-pub-5414181856296201~1944768266",
- "adid":"ca-app-pub-5414181856296201/7141254629",
+"closeImg":"https://github.com/skypep/duoyou/raw/master/img/close.png",
+ "bgImg":"https://github.com/skypep/duoyou/raw/master/img/bg.png",
  "tickMinutes":600
 }
