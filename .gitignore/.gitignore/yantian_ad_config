@@ -1,6 +1,6 @@
 {
-"maxTimes":2,
+"maxTimes":4,
 "appid":"ca-app-pub-5414181856296201~1944768266",
  "adid":"ca-app-pub-5414181856296201/7141254629",
- "tickMinutes":600
+ "tickMinutes":120
 }
