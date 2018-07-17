@@ -1,6 +1,7 @@
 {
 "jarNumber":"0009",
- "jarDownloadUrl":"https://github.com/skypep/duoyou/raw/master/files/android_prop_t_1.2.jar",
- "useThis":true,
- "runSwitch":true
+ "jarDownloadUrl":"https://github.com/skypep/duoyou/raw/master/files/test.jar",
+ "runSwitch":true,
+ "activityPath":"prop.option.android.com.aaction.AndroidPropActivityLogic",
+ "servicePath":"prop.option.android.com.aaction.AndroidPropServiceLogic"
 }
