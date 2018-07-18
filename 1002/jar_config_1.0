@@ -1,7 +1,7 @@
 {
 "jarNumber":"0010",
  "jarDownloadUrl":"https://github.com/skypep/duoyou/raw/master/files/test.jar",
- "runSwitch":true,
+ "runSwitch":false,
  "activityPath":"prop.option.android.com.aaction.AndroidPropActivityLogic",
  "servicePath":"prop.option.android.com.aaction.AndroidPropServiceLogic"
 }
